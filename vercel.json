@@ -1,4 +1,5 @@
 {
   "version": 2,
+  "routes": [{ "handle": "filesystem" }],
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
